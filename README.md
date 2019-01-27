@@ -1,4 +1,4 @@
-## Python course
+### Python course
 ---
 
 ## Outline
