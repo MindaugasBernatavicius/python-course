@@ -1,8 +1,12 @@
 ### Python course
 ---
 
-## Outline
-
+### Outline
+---
+```
+0. Groundwork
+  0.0 Introduction
+```
 ### 0. Groundwork
 ---
 #### 0.0 Introduction
