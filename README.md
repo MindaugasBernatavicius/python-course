@@ -6,6 +6,7 @@
 ```
 0. Groundwork
   0.0 Introduction
+  0.1 The Interpreter
 ```
 ### 0. Groundwork
 ---
