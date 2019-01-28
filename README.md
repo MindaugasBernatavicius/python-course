@@ -12,13 +12,29 @@
     0.1.0 //
 1. Core Python
   1.0 Simple datatypes
-    1.0.0 //
+    1.0.0 Numbers
+    1.0.1 Strings
+      1.0.1.0 Double qoute vs. single qoute
+      1.0.1.1 Escape sequences: \n, \t, \\
+      1.0.1.2 Multiline strings
+      1.0.1.3 Formating w/ print: print(%s), print(s * 5)
+    1.0.2 Lists
+      1.0.2.0 Simple operations: creation, assignment, access, looping, sorting, inserting, appending, min, max, len.
+      1.0.2.1 Slicing
+      1.0.2.2 List comprehensions
+      1.0.2.3 Nested lists
+    1.0.3 Dictionaries / map: unique key, cant' be joined like lists.
+       // get values
+       // get keys
+       // ... other simple operations
+    1.0.4 Tuples: same as list, but static.
+  1.1 Simple operators
+    1.1.0 Arythmetic
+    1.1.1 Logical
+    1.1.2 Precedence of operators
   1.1 Control structures
-    1.1.0 //
-  1.2 Lists
-    1.2.0 //
-  1.3 Dictionaries
-    1.3.0 //
+    1.1.0 Branching: if, else, elif
+    1.1.1 Looping: for(), while() (w/ random)
   1.4 User input
     1.4.0 //
   1.5 Functions
