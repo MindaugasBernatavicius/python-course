@@ -18,6 +18,7 @@
       1.0.1.1 Escape sequences: \n, \t, \\
       1.0.1.2 Multiline strings
       1.0.1.3 Formating w/ print: print(%s), print(s * 5)
+      1.0.1.4 Slicing and spliting, stripping whitespace, creating a list from string.
     1.0.2 Lists
       1.0.2.0 Simple operations: creation, assignment, access, looping, sorting, inserting, appending, min, max, len.
       1.0.2.1 Slicing
@@ -34,11 +35,12 @@
     1.1.2 Precedence of operators
   1.1 Control structures
     1.1.0 Branching: if, else, elif
-    1.1.1 Looping: for(), while() (w/ random)
+    1.1.1 Looping: for i in range(6), for i in [], while
   1.4 User input
     1.4.0 //
-  1.5 Functions
-    1.5.0 //
+  1.5 Functions - reusable, addresable code:
+    1.5.0 Caller and callee: return returns to the caller.
+    1.5.1 Scope: don't use global, function-locals not available after function ends.
 2. Advanced Python
   2.0 Classes & OO
     2.0.0. //
@@ -52,11 +54,11 @@
     2.4.0. //
 3. Common applications
   3.0 Scripting and tooling
-    3.0.0 //
+    3.0.0 Calling an API w/ urllib.
   3.1 GUI programming
     3.1.0 //
   3.2 Data Visualization
-    3.2.0 //
+    3.2.0 Drawing graphs w/ matplotlib.
   3.3 Simple machine learning
     3.3.0 //
   3.4 Web apps
