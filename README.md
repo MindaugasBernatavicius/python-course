@@ -70,6 +70,7 @@
 ```
 ### Excercises:
 - https://www.w3resource.com/python-exercises/
+- http://www.practicepython.org/
 - https://raw.githubusercontent.com/zhiwehu/Python-programming-exercises/master/100%2B%20Python%20challenging%20programming%20exercises.txt
 
 
