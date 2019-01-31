@@ -68,6 +68,11 @@
     3.4.3 Doing the same w/ Flask
   
 ```
+### Excercises:
+- https://www.w3resource.com/python-exercises/
+- https://raw.githubusercontent.com/zhiwehu/Python-programming-exercises/master/100%2B%20Python%20challenging%20programming%20exercises.txt
+
+
 ### 0. Groundwork
 ---
 #### 0.0 Introduction
