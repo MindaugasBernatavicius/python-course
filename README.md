@@ -1,7 +1,16 @@
-### Python course
+## Python course
 ---
 
-### Outline
+## Simple outline
+### 0. Groundwork
+---
+#### 0.0 Introduction
+#### 0.1 The Interpreter
+### Core Python
+#### Basic programming concepts
+#### Object orient Python
+
+## Outline
 ---
 ```
 0. Groundwork
@@ -14,6 +23,7 @@
       0.0.X.X Application users: scripting "Blender 3D" and other application scipting.
       0.0.X.X Data Scientists and machine learning professionals. 
       0.0.X.X Scientists.
+      0.0.X.X Mobile development.
     0.0.X Popularity: SO questions, PYPL ranking, IEEE Spectrum report, TIOBE index.
     0.0.X PEP 20 and Pythoninc philosophy: focus on readability and software maintainability.
     0.0.X Notes on versions 2.X vs 3.X
@@ -92,12 +102,3 @@
 - https://www.w3resource.com/python-exercises/
 - http://www.practicepython.org/
 - https://raw.githubusercontent.com/zhiwehu/Python-programming-exercises/master/100%2B%20Python%20challenging%20programming%20exercises.txt
-
-
-### 0. Groundwork
----
-#### 0.0 Introduction
-#### 0.1 The Interpreter
-### Core Python
-#### Basic programming concepts
-#### Object orient Python
