@@ -18,7 +18,7 @@
     0.0.X Notes on versions 2.X vs 3.X
       0.0.X.X Not backwards compatible, so many features could be added, use Python3 by default.
       0.0.X.X Package names: python3, pip3, ipython3
-      0.0.X.X Byte strings in Python2, Unicode strins in Python3.
+      0.0.X.X Ascii strings in Python2, Unicode strins in Python3.
       0.0.X.X Print was a statement in Python2, in Python3 it's a function.
       0.0.X.X Some new features were added like: TODO.
     0.0.X Tools: 
@@ -35,7 +35,8 @@
     0.1.0 
 1. Core Python
   1.0 Simple datatypes
-    1.0.0 Numbers
+    1.X.X Dynamic typing and it's problems (no compile time safety).
+    1.0.0 Numbers: int, float and their operations. Complex types.
     1.0.1 Strings
       1.0.1.0 Double qoute vs. single qoute
       1.0.1.1 Escape sequences: \n, \t, \\
