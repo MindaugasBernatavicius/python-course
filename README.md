@@ -8,10 +8,14 @@
   0.0 Introduction
     0.0.X What is Python - high level, usually interpreted, dynamically typed, very readablem multiparadigm programming language.
     0.0.X History: 1989-1991, when first release was published. Python 2.0 - 2000 (PEP, support for unicode, cycle detecting. interpreter). Python 3.0 - 2008.
-    0.0.X Who uses python: ??.
+    0.0.X Who uses python:
+      0.0.X.X System / network admins / SREs: launching apps, configuration management, testing what happens if application dies.
+      0.0.X.X Web Devs: API (flask microframework, bottle), feature rich webapps (django, web2py), CMS/ERP (django-cms, mezzanine).
+      0.0.X.X Application scripting: Blender 3D.
+      0.0.X.X Data Scientists and machine learning professionals. 
     0.0.X Popularity: SO questions, PYPL ranking, IEEE Spectrum report, TIOBE index.
     0.0.X PEP 20 and Pythoninc philosophy: focus on readability and software maintainability.
-    0.0.X Notes on versions 2.X vs. 3.X
+    0.0.X Notes on versions 2.X vs 3.X
     0.0.X //
   0.1 The Interpreter
     0.1.0 //
@@ -51,7 +55,7 @@
     2.0.0. //
   2.1 Functional Concepts
     2.1.0. //
-  2.2 I/O: Files and Networking
+  2.2 I/O: Files, Networking, process management (subprocesses and pipes)
     2.2.0. //
   2.3 Exceptions
     2.3.0. //
