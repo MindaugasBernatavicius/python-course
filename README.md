@@ -33,15 +33,16 @@
       0.0.X.X https://docs.python.org/3/
   0.1 The Interpreter
     0.1.0 
+    
 1. Core Python
   1.0 Simple datatypes
     1.X.X Dynamic typing and it's problems (no compile time safety).
     1.0.0 Numbers: int, float and their operations. Complex types.
     1.0.1 Strings
-      1.0.1.0 Double qoute vs. single qoute
+      1.0.1.0 Double qoute vs. single qoute vs. tripple qoute: 'a' == "a" == '''a'''
       1.0.1.1 Escape sequences: \n, \t, \\
       1.0.1.2 Multiline strings
-      1.0.1.3 Formating w/ print: print(%s), print(s * 5)
+      1.0.1.3 Formating w/ print: print(%s), print(s * 5), "'.format(var1, ...)., f"Hello {name}".
       1.0.1.4 Slicing and spliting, stripping whitespace, creating a list from string.
     1.0.2 Lists
       1.0.2.0 Simple operations: creation, assignment, access, looping, sorting, inserting, appending, min, max, len.
@@ -65,6 +66,7 @@
   1.5 Functions - reusable, addresable code:
     1.5.0 Caller and callee: return returns to the caller.
     1.5.1 Scope: don't use global, function-locals not available after function ends.
+    
 2. Advanced Python
   2.0 Classes & OO
     2.0.0. //
@@ -76,6 +78,7 @@
     2.3.0. //
   2.4 Testing
     2.4.0. //
+    
 3. Common applications
   3.0 Scripting and tooling
     3.0.0 Calling an API w/ urllib.
@@ -90,6 +93,7 @@
     3.4.1 Interacting w/ DBs
     3.4.2 Templating engines in python
     3.4.3 Doing the same w/ Flask
+    
 4. Python ecosystems and tools:
   4.X Venv: 
     4.X.X virtualenv project_venv
