@@ -73,7 +73,11 @@
   2.2 I/O: Files, Networking, process management (subprocesses and pipes)
     2.2.0. //
   2.3 Exceptions
-    2.3.0. //
+    2.3.0 KeyError when no key in disc.
+    X.X.X Wrong permissions for a file.
+    X.X.X Try-catch-finally
+    X.X.X Exceptions walk the stack, but have no costs when not thrown
+    X.X.X Which code should be wrapped: not in memory.
   2.4 Testing
     2.4.0. //
     
