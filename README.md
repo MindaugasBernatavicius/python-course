@@ -46,21 +46,19 @@
       1.0.1.4 Slicing and spliting, stripping whitespace, creating a list from string.
     1.0.2 Lists
       1.0.2.0 Simple operations: creation, assignment, access, looping, sorting, inserting, appending, min, max, len.
-      1.0.2.1 Slicing
+      1.0.2.1 Slicing: list[2:], list[:2], list[2:5]
       1.0.2.2 List comprehensions
       1.0.2.3 Nested lists
+    1.1 Control structures
+      1.1.0 Branching: if, else, elif
+      1.1.1 Looping: for i in range(6), for i in [], while
     1.0.3 Dictionaries / map: unique key, cant' be joined like lists.
-       // get values
-       // get keys
-       // ... other simple operations
+      1.X.X CRUD and other operations.
     1.0.4 Tuples: same as list, but static.
   1.1 Simple operators
     1.1.0 Arythmetic
     1.1.1 Logical
     1.1.2 Precedence of operators
-  1.1 Control structures
-    1.1.0 Branching: if, else, elif
-    1.1.1 Looping: for i in range(6), for i in [], while
   1.4 User input
     1.4.0 //
   1.5 Functions - reusable, addresable code:
