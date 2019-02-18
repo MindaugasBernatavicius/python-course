@@ -77,7 +77,7 @@
     X.X.X Wrong permissions for a file.
     X.X.X Try-catch-finally
     X.X.X Exceptions walk the stack, but have no costs when not thrown
-    X.X.X Which code should be wrapped: not in memory.
+    X.X.X Which code should be wrapped: not in memory (IO operations).
   2.4 Testing
     2.4.0. //
     
