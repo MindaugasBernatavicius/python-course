@@ -52,7 +52,7 @@
     1.1 Control structures
       1.1.0 Branching: if, else, elif
       1.1.1 Looping: for i in range(6), for i in [], while
-    1.0.3 Dictionaries / map: unique key, cant' be joined like lists.
+    1.0.3 Dictionaries / map: unique key, can't be joined like lists.
       1.X.X CRUD and other operations.
     1.0.4 Tuples: same as list, but static.
   1.1 Simple operators
@@ -62,8 +62,11 @@
   1.4 User input
     1.4.0 //
   1.5 Functions - reusable, addresable code:
-    1.5.0 Caller and callee: return returns to the caller.
+    X.X.X General form of a function;
+    X.X.X Side effects (I/O boundary) and pure functions.
+    1.5.0 Caller and callee: return returns to the caller;
     1.5.1 Scope: don't use global, function-locals not available after function ends.
+    X.X.X A function needs to be small and do one thing or at least perform related things.
     X.X.X Function calling another function.
     X.X.X Function calling itself: factorial(), fibonacci(), analysing recursive functions (stacks and tree representations). 
     
@@ -77,9 +80,10 @@
   2.3 Exceptions
     2.3.0 KeyError when no key in disc.
     X.X.X Wrong permissions for a file.
-    X.X.X Try-catch-finally
-    X.X.X Exceptions walk the stack, but have no costs when not thrown
+    X.X.X Try-except-else-finally
+    X.X.X Exceptions walk the stack, but have no costs when not thrown.
     X.X.X Which code should be wrapped: not in memory (IO operations).
+    X.X.X Multi-catch blocks.
   2.4 Testing
     2.4.0. //
     
