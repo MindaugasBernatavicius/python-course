@@ -64,6 +64,8 @@
   1.5 Functions - reusable, addresable code:
     1.5.0 Caller and callee: return returns to the caller.
     1.5.1 Scope: don't use global, function-locals not available after function ends.
+    X.X.X Function calling another function.
+    X.X.X Function calling itself: factorial(), fibonacci(), analysing recursive functions (stacks and tree representations). 
     
 2. Advanced Python
   2.0 Classes & OO
