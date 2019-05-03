@@ -1,5 +1,7 @@
 # Python course
 
+- Cheatsheets: https://ehmatthes.github.io/pcc/cheatsheets/README.html
+
 ## Outline
 ```
 0. Groundwork
