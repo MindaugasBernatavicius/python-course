@@ -6,15 +6,16 @@
 ```
 0. Groundwork
   0.0 Introduction
-    0.0.X What is Python - high level, usually interpreted, dynamically typed, very readablem multiparadigm programming language.
+    0.0.X What is Python - high level, usually interpreted, dynamically typed (duck typed), very readable multiparadigm programming language.
     0.0.X History: 1989-1991, when first release was published. Python 2.0 - 2000 (PEP, support for unicode, cycle detecting interpreter). Python 3.0 - 2008.
     0.0.X Who uses python:
       0.0.X.X System / network admins / SREs: launching apps, configuration management, testing (what if application dies) - ansible.
       0.0.X.X Web Devs: API (flask microframework, bottle), feature rich webapps (django, web2py), CMS/ERP (django-cms, mezzanine).
       0.0.X.X Application users: scripting "Blender 3D" and other application scipting.
-      0.0.X.X Data Scientists and machine learning professionals. 
-      0.0.X.X Scientists.
+      0.0.X.X Data Scientists and machine learning professionals (Keras, Tensorflow, PyTorch). 
+      0.0.X.X Scientists (Numpy ans Scipy).
       0.0.X.X Mobile development.
+      0.0.X.X Desktop development.
     0.0.X Popularity: SO questions, PYPL ranking, IEEE Spectrum report, TIOBE index.
     0.0.X PEP 20 and Pythoninc philosophy: focus on readability and software maintainability.
     0.0.X Notes on versions 2.X vs 3.X
@@ -33,8 +34,23 @@
     0.0.X Documentation:
       0.0.X.X https://www.python.org/
       0.0.X.X https://docs.python.org/3/
-  0.1 The Interpreter
-    0.1.0 
+  0.1 There are several implementations of python
+    0.1.0 CPython
+    0.1.1 JPython
+    0.1.2 Iron Python, PyPy (small)
+  0.2 The Interpreter and installation
+    0.2.0 Install
+    - REPL, the _ (underscore) in REPL.
+    - Other tools like jdoodle (you can create a file there).
+    
+    
+    f = open("guru99.txt","w+")
+    f.write("AAAA")
+    f.close()
+
+    f = open("guru99.txt", "r+")
+    print(f.read())
+    f.close()
     
 1. Core Python
   1.0 Simple datatypes
